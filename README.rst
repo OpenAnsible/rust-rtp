@@ -1,4 +1,4 @@
-Rust RTP Lib
+Rust RTP Library
 ===================
 
 :Date: 06/02 2016
